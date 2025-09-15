@@ -64,7 +64,7 @@ function areaStyleFunction(f) {
 }
 
 var appView = new ol.View({
-    center: ol.proj.fromLonLat([120.341986, 23.176082]),
+    center: ol.proj.fromLonLat([121.564101, 25.033493]),
     zoom: 8
 });
 
