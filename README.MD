@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/MxBwqfk.png)
+![](https://i.imgur.com/uz0wYsH.png)
 > 可查詢到住家附近直轄市議員及縣市議員選舉選舉區投票結果
 
-![](https://i.imgur.com/nh8j2lu.png)
+![](https://i.imgur.com/7USNepI.png)
 > 即便是 2018 年，現任議員中「連任」在全台地方議會還是有過半、很大的影響力
